@@ -1,0 +1,25 @@
+{
+  "name": "vue-scrolltotop",
+  "version": "1.0.0",
+  "description": "Component for Vue.js to scroll the page to top when clicked.",
+  "author": "Santosh Bhandari",
+  "license": "MIT",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheLearneer/vue-scrolltotop.git"
+  },
+  "keywords": [
+    "Vue",
+    "Vue.js",
+    "scroll-to-top",
+    "back-to-top"
+  ],
+  "bugs": {
+    "url": "https://github.com/TheLearneer/vue-scrolltotop/issues"
+  },
+  "homepage": "https://github.com/TheLearneer/vue-scrolltotop#readme",
+}
