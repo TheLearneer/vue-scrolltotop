@@ -4,7 +4,7 @@
 			<div id="scroll-top" title="scroll to top" @click="scrollTop" :style="this.style">
 				<slot>
 					<div id="scroll-custom" class="button is-info is-rounded">
-						<p>Scroll To Top</p><b-icon icon="fa fa-arrow-up" />
+						<b-icon icon="mdi mdi-arrow-up-bold" />
 					</div>
 				</slot>
 			</div>
